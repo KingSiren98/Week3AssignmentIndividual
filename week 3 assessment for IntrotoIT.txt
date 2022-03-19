@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Kian Yuke Hill</h1>
+
+<img src="kian.jpg" alt="Pic of Kian" />
+
+
+<h2>Email: S3950817@student.rmit.edu.au
+<h3>Student Number: S3950817<h3> 
+
+
+<p>Hey there! Sorry for the lack of format im am super duper new to the world of html well any coding language really .
+
+I am and Australian Indigenous male who is VERY mixed (mainly European) and have finished my cert III and IV in 
+Health and Fitness. I am an english speaker but hopefully after completing my studies here i will learn japanese 
+and travel overseas to live and work in the industry. One fun fact about me is i work in a prison for young people.
+Honestly it is pretty intense but not as crazy as learning PHP for work,Python for intro to programming and HTML 
+for Intro to IT!!!!.</p>
+
+
+<p>My interest in IT are currently abit of a blur in all honesty my needs are somewhat basic. i desire to create a open 
+world rpg game that incorperates basic climbing/free roam aspects of games like assassins creed and DCUO. I love exploring
+and feeling like a complete badass it fuels that feeling of escaping real life. not only am i intersted in videogames i am 
+pretty extrigued by the idea/revolution of the metaverse. it fuels my desire to help create a real life ready player one
+themed program. IT in my mind is the creation of life beyond our physical bodies i plan on using IT in my future home.
+Using it to make it more accessable and secure making it a freeflowing living space. Forever evoloving, a place where i 
+can create freely and feel comfortable and safe.</p>
+
+
+<p>I just started working at a youth detention centre start of 2022. i asked if they needed help in the IT department.
+funnily enough at the time i had no experience with anything IT based. The silly buggers said yes nad have had me 
+hooked ever since. i honestly have wanted to do it for the longest time, but have only just realised how addicting it is.
+
+Im franticly learning all of this full time studying buisness about 3-4 days a week as i work Full time 5 daysa week
+around 10 hours Per day!!!. Im stressing about life but have never felt so compfy/happy. </p>
+
+<p>By the end of this course i plan on having a better direction in the industry. and some more fundamentals behind 
+The wonderful magical world of IT!.</p>
+
+
+<p>Here is a link for my ideal first job (even as a part timer). </p>
+
+<a href="https://www.seek.com.au/job/56200038?type=standard#sol=ad81c45fe153712e2492603400c4d335552fa5c4">My First Job Link</a>
+
+
+<p> my current ideal job isn't really my long term dream job. i plan on getting experience in the creative side of IT
+as a games developer so i can learn to write code and express myself creatively first. during said time i would mind
+developing my own skills towards coding/ possibly becoming a data scientist. it seems like a practicle job 
+opportunity for traveling. 
+
+Now for said job i would need experience in different coding languages(That i am currently unaware of) but I know for 
+a fact that with time i could achieve this goal by simply focusing on a more coding heavy job. something like a 
+computer scientist or even just staying where in my current job at the youth detention centre. they are showing
+me how to backend and develop a student data system plus how to develop curriculim via UNITY. </p>
+
+<p>Now for all my test results. i hope you find the result as intriguing as i did.<p>
+
+<p>1. Myers.briggs Test results </p>
+<img src="PERSONALITYTEST RESULT.png" alt="Assertive Logician" />
+<p>2. Learning style results </p>
+<img src="LearningStyle.png" alt="VisualLearner" />
+<p>3. Mental wellbeing score (lower then i want it to be at the moment but am working on it</p>
+<img src="MentalWellbeingScore.png" alt="16.4 MHQ Score (this is quiet low)" />
+
+<p>To me these reults mean i have a pretty good work ethic and can function pretty well,
+on my own or in a team. i am a logician so i will be able to think on the fly and constently
+able to supprt my group creatively. </p>
+
+<p>Seeing my results is quiet surprising. It seems i may have let myself go down abit of a rabbit hole
+Mental health wise. I am working on that now but i know it wouldnt effect working in a group.
+when it comes to work i am a people pleaser i will go %100 at all times. </p>
+
+<p>When forming a team i should choose a diverse range of people but most definetly someone who
+can understand mental health issues, so i can actively chat about, mental health based issues.
+not personal stuff though but help it to be a open communication between one co worker to another </p>
+
+<p>I have several project ideas! None of which i know anything about how to complete./p>
+<p>Idea List;</p>
+<p>1.Developing some form of hacking/modding tools to utilise on games Like Fivem (Gtav)<p>
+<p>2.Developing a freeroam RPG game using unity<p>
+<p>3.Creating a phone app that utilises tower defence/typhoon systems<p>
+<p>4.I would also love to create small robots so in the future i can create my dream house<p>
+
+<p>Im very passionate about creating roleplaying/artistic creative enviroments. i would love 
+to get into videgame development but also create cool useful gadgets like a automatic shoebox
+with touch controls (using feet) i would also love to create a bot that grabs shoes and drives them to
+and from my door. Even develop a high tec automatic lock using nfc tags and or a pin
+<p>under pressure i cant really choose between small robots or creating a game using unity
+So for the sake of this assessment and the lack of access that i have with in person projects (ROBOTS)
+ill choose to create addicting game Something to start off with will be basic but utilise an addictive 
+feeling, the feeling of freedom and being superpowered i will develop a game that utilises the idea 
+of a human who is cursed to be a werewolf a somewhat humanoid one. It will be open world so the player 
+can experience a somewhat roleplaying experience of being a monster in disguise. hmm cool concept and name
+whats the term Skinwalker? anyways it will be a fun game based on exploration but also brutal and exciting </p>
+
+<p>Currently in the world there is no real werewolf game thats brings the feeling fully to life there have been 
+some games that have just barely scratched the surface. like skyrim, the wolf among us and the order. none 
+of which really let you be a wolf. however there is a game almost out. called vampire masquerade bloodlines 2 
+It isnt a werewolf game but captures the feeling almost perfectly of what it is to be a 'Monster' among 
+humans. There is talk in the community that they are recreating a whole bunch of worlds like vampires 
+and also in the not near future a werewolf lore. that in time the will incorporate together.
+I love the idea of that so in order to show the world what a good wereolf game can be i would love to give
+them all of the resources they would ever need ;) </p>
+
+<p>To begin with i would set the game in a semi realistic medieval fantasy world, (think of Medieval dynasty).
+It will be a dark world where the nights are endless and the village people fear the slightest sound out of the normal...
+a strong gust of wind slamming doors closed, the sound of something running through the puddles outside. the eary
+feeling watched. oh but wait oyu are the wereolf right? wrong well kind of not you are whats known as a beta,
+someone who cannot yet fully turn but is not yet part of a pack. a somewhat lone wolf. not only are hunters
+after you but the werewolves who have lost themselves to the curse completely. There should be a ranking system
+implimented where there are different kinds of wolves and humans, some who use silver weapons'hunters' and some 
+who weild pitchforks or iron blades'villagers'. the villagers will literally be nothing to you.
+well maybe the form of experience you need to hunt in order to grow into a fully formed 'ALPHA' wolf. </p>
+
+<p>It is a first person game with capabilities to be Third person, for when the character feeds or climbs. i want the ability for the character 
+to be able to jump and climb the village houses freely.this will be just the beginning of our free roaming aspect.
+our character can hide in there own or strangers buildings from hunters or wolves. Because they are a werewolve themselves they know
+how to hide their own scent from other wolves, so the hiding function will still be useful against the other
+Big Bad WOLVES. Players will be able to feed on the villagers to gain strength and abilities. Just dont
+feed to much, the other wolves may be watching...</p>
+
+<p>At the same time i dont want this game to just be a good werewolf game. i would love if it mirrored Medieval dynasty.
+In the fact that it is a great Townbuilding, survival and roleplaying game where you can create your own village and 
+jobs. this allows the character to be able to chop wood and gather stone for buildings or even farm and fish for food.
+Now when our player is in human form can they use weapons? of course they can now there comes a problem
+will extremely expensive weapons be better than a wolves claws?... NO but the same goes the other way.
+To begin with we will keep everythign around the same damage scale. all weapons and wolf attacks will do the same
+They will all inflict some form of damage whether it be bleeding damage or outright INSTADEATH.
+It just depends on where you hit... oh and did i mention the wolf powers will include some form of ability to see 
+in the night or even the ability to see scent trails. the idea behind a game like this is you need it to still be
+simple. Simple and somewhat realistic. wolves can die and humans can die too. you know whats scarier than death.
+PERMADEATH!!!. once you die you have to start a new player. someone you may have bitten or even  child you 
+may have had?.</p>
+
+<p>Tools we can use for this project include Unity, unreal engine and even game maker studio.
+I have never created a game before so this will be a task. I will use my at home PC which should suffice
+it utilises a Nvidia 2080 ti Graphics card plus a whole bunch of other goodies. ill script the code
+using python (still need to learn) and possibly learn some c++
+
+<p>Feasability wise it will be quiete difficult to manage all of said task with a small team, especially
+one with new people like me in it</p>
+
+<p>The outcome and final project would mean that we would successfuly give the gaming community something 
+new and fresh to paly with. it would show and hopefully influence the creators of vampire bloodlines 2 
+what a werewolf could actually be like. and for people like myself who want to Feel what its like
+to be a werewolf. hell people who enjoy roleplaying games could seriously mod this to be a vampire game.
+or even just use it a a open word roleplaying survival game and lets them live out there fantasies.</p>
+
+
+
+</body>
+</html>
